@@ -1,1 +1,1 @@
-# Beowulf_vector_project
+# Prismatic Beowulf
